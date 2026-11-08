@@ -5,7 +5,7 @@ follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions
 follow [Semantic Versioning](https://semver.org/). This file is generated at
 each release from the Conventional Commits: do not edit it by hand.
 
-## [0.1.0] - unreleased
+## [0.1.0] - 2026-11-08
 
 ### Added
 
@@ -18,3 +18,5 @@ each release from the Conventional Commits: do not edit it by hand.
 - The quota of the personal key kept: requests counted in /data, the reading interval made longer with many stops, readings paused before the hourly and daily limits, and until the next full hour after an API_QUOTA answer.
 - Cloud transport: the departure board of the HAFAS API of the ATP (personal key, CC BY 4.0) and the stop list of its open GTFS, read weekly and kept in /data.
 - English, French, German and Spanish everywhere: settings, devices, widgets, scenes and documentation.
+
+[0.1.0]: https://github.com/William-De71/gladys-mobiliteit-lu/releases/tag/v0.1.0
