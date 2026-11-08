@@ -1,0 +1,7 @@
+{
+  "serverVersion": "2.52.2",
+  "dialectVersion": "2.52",
+  "errorCode": "API_QUOTA",
+  "errorText": "quota exceeded for key on service",
+  "requestId": "gladys-test"
+}

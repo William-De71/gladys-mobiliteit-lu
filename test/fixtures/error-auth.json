@@ -1,0 +1,7 @@
+{
+  "serverVersion": "2.52.2",
+  "dialectVersion": "2.52",
+  "errorCode": "API_AUTH",
+  "errorText": "access denied for 0f1e2d3c-4b5a-6978-8796-a5b4c3d2e1f0 on departureBoard identified by departureBoard",
+  "requestId": "default-request-id"
+}

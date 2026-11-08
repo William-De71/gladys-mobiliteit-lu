@@ -1,0 +1,529 @@
+{
+  "serverVersion": "2.52.2",
+  "dialectVersion": "2.52",
+  "Departure": [
+    {
+      "JourneyDetailRef": {
+        "ref": "1|32411|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 228,
+            "g": 0,
+            "b": 43,
+            "hex": "#E4002B"
+          },
+          "res": "prod_reg"
+        },
+        "name": "RE 11",
+        "internalName": "RE 11",
+        "displayNumber": "11",
+        "num": "3241",
+        "line": "11",
+        "lineId": "RE11",
+        "catOut": "Train",
+        "catIn": "CRE",
+        "catCode": "3",
+        "cls": "4",
+        "catOutS": "CRE",
+        "catOutL": "Regional-Express",
+        "operatorCode": "CFL",
+        "operator": "Chemins de Fer Luxembourgeois",
+        "admin": "c82---",
+        "matchId": "11"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 228,
+              "g": 0,
+              "b": 43,
+              "hex": "#E4002B"
+            },
+            "res": "prod_reg"
+          },
+          "name": "RE 11",
+          "internalName": "RE 11",
+          "displayNumber": "11",
+          "num": "3241",
+          "line": "11",
+          "lineId": "RE11",
+          "catOut": "Train",
+          "catIn": "CRE",
+          "catCode": "3",
+          "cls": "4",
+          "catOutS": "CRE",
+          "catOutL": "Regional-Express",
+          "operatorCode": "CFL",
+          "operator": "Chemins de Fer Luxembourgeois",
+          "admin": "c82---",
+          "matchId": "11"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Chemins de Fer Luxembourgeois",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "CFL"
+          }
+        ]
+      },
+      "name": "RE 11",
+      "type": "ST",
+      "stop": "Luxembourg, Gare Centrale",
+      "stopid": "A=1@O=Luxembourg, Gare Centrale@X=6125976@Y=49611504@U=82@L=200405060@",
+      "stopExtId": "200405060",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "18:35:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": true,
+      "direction": "Troisvierges, Gare",
+      "directionFlag": "1",
+      "prognosisType": "PROGNOSED",
+      "rtTime": "18:39:00",
+      "rtDate": "2026-11-07",
+      "rtTz": 60,
+      "track": "3"
+    },
+    {
+      "JourneyDetailRef": {
+        "ref": "1|10011|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 0,
+            "g": 148,
+            "b": 202,
+            "hex": "#0094CA"
+          },
+          "res": "prod_tram_t"
+        },
+        "name": "Tram T1",
+        "internalName": "Tram T1",
+        "displayNumber": "T1",
+        "num": "1001",
+        "line": "T1",
+        "lineId": "T1",
+        "catOut": "Tram",
+        "catIn": "CAF",
+        "catCode": "8",
+        "cls": "256",
+        "catOutS": "CAF",
+        "catOutL": "Tram",
+        "operatorCode": "TRA",
+        "operator": "Luxtram",
+        "admin": "LUTRAM",
+        "matchId": "T1"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 0,
+              "g": 148,
+              "b": 202,
+              "hex": "#0094CA"
+            },
+            "res": "prod_tram_t"
+          },
+          "name": "Tram T1",
+          "internalName": "Tram T1",
+          "displayNumber": "T1",
+          "num": "1001",
+          "line": "T1",
+          "lineId": "T1",
+          "catOut": "Tram",
+          "catIn": "CAF",
+          "catCode": "8",
+          "cls": "256",
+          "catOutS": "CAF",
+          "catOutL": "Tram",
+          "operatorCode": "TRA",
+          "operator": "Luxtram",
+          "admin": "LUTRAM",
+          "matchId": "T1"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Luxtram",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "TRA"
+          }
+        ]
+      },
+      "name": "Tram T1",
+      "type": "ST",
+      "stop": "Luxembourg, Gare Centrale",
+      "stopid": "A=1@O=Luxembourg, Gare Centrale@X=6125976@Y=49611504@U=82@L=200405060@",
+      "stopExtId": "200405060",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "18:37:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": true,
+      "direction": "Kirchberg, Luxexpo",
+      "directionFlag": "1",
+      "prognosisType": "PROGNOSED",
+      "rtTime": "18:37:00",
+      "rtDate": "2026-11-07",
+      "rtTz": 60
+    },
+    {
+      "JourneyDetailRef": {
+        "ref": "1|60711|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 228,
+            "g": 0,
+            "b": 43,
+            "hex": "#E4002B"
+          },
+          "res": "prod_reg"
+        },
+        "name": "RB 60",
+        "internalName": "RB 60",
+        "displayNumber": "60",
+        "num": "6071",
+        "line": "60",
+        "lineId": "RB60",
+        "catOut": "Train",
+        "catIn": "CRE",
+        "catCode": "3",
+        "cls": "4",
+        "catOutS": "CRE",
+        "catOutL": "Regional-Express",
+        "operatorCode": "CFL",
+        "operator": "Chemins de Fer Luxembourgeois",
+        "admin": "c82---",
+        "matchId": "60"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 228,
+              "g": 0,
+              "b": 43,
+              "hex": "#E4002B"
+            },
+            "res": "prod_reg"
+          },
+          "name": "RB 60",
+          "internalName": "RB 60",
+          "displayNumber": "60",
+          "num": "6071",
+          "line": "60",
+          "lineId": "RB60",
+          "catOut": "Train",
+          "catIn": "CRE",
+          "catCode": "3",
+          "cls": "4",
+          "catOutS": "CRE",
+          "catOutL": "Regional-Express",
+          "operatorCode": "CFL",
+          "operator": "Chemins de Fer Luxembourgeois",
+          "admin": "c82---",
+          "matchId": "60"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Chemins de Fer Luxembourgeois",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "CFL"
+          }
+        ]
+      },
+      "name": "RB 60",
+      "type": "ST",
+      "stop": "Luxembourg, Gare Centrale",
+      "stopid": "A=1@O=Luxembourg, Gare Centrale@X=6125976@Y=49611504@U=82@L=200405060@",
+      "stopExtId": "200405060",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "18:46:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": false,
+      "direction": "Esch-sur-Alzette, Gare",
+      "directionFlag": "1",
+      "cancelled": true,
+      "track": "7"
+    },
+    {
+      "JourneyDetailRef": {
+        "ref": "1|10012|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 0,
+            "g": 148,
+            "b": 202,
+            "hex": "#0094CA"
+          },
+          "res": "prod_tram_t"
+        },
+        "name": "Tram T1",
+        "internalName": "Tram T1",
+        "displayNumber": "T1",
+        "num": "1001",
+        "line": "T1",
+        "lineId": "T1",
+        "catOut": "Tram",
+        "catIn": "CAF",
+        "catCode": "8",
+        "cls": "256",
+        "catOutS": "CAF",
+        "catOutL": "Tram",
+        "operatorCode": "TRA",
+        "operator": "Luxtram",
+        "admin": "LUTRAM",
+        "matchId": "T1"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 0,
+              "g": 148,
+              "b": 202,
+              "hex": "#0094CA"
+            },
+            "res": "prod_tram_t"
+          },
+          "name": "Tram T1",
+          "internalName": "Tram T1",
+          "displayNumber": "T1",
+          "num": "1001",
+          "line": "T1",
+          "lineId": "T1",
+          "catOut": "Tram",
+          "catIn": "CAF",
+          "catCode": "8",
+          "cls": "256",
+          "catOutS": "CAF",
+          "catOutL": "Tram",
+          "operatorCode": "TRA",
+          "operator": "Luxtram",
+          "admin": "LUTRAM",
+          "matchId": "T1"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Luxtram",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "TRA"
+          }
+        ]
+      },
+      "name": "Tram T1",
+      "type": "ST",
+      "stop": "Luxembourg, Gare Centrale",
+      "stopid": "A=1@O=Luxembourg, Gare Centrale@X=6125976@Y=49611504@U=82@L=200405060@",
+      "stopExtId": "200405060",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "18:45:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": true,
+      "direction": "Kirchberg, Luxexpo",
+      "directionFlag": "1",
+      "prognosisType": "PROGNOSED",
+      "rtTime": "18:46:00",
+      "rtDate": "2026-11-07",
+      "rtTz": 60
+    },
+    {
+      "JourneyDetailRef": {
+        "ref": "1|32431|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 228,
+            "g": 0,
+            "b": 43,
+            "hex": "#E4002B"
+          },
+          "res": "prod_reg"
+        },
+        "name": "RE 11",
+        "internalName": "RE 11",
+        "displayNumber": "11",
+        "num": "3243",
+        "line": "11",
+        "lineId": "RE11",
+        "catOut": "Train",
+        "catIn": "CRE",
+        "catCode": "3",
+        "cls": "4",
+        "catOutS": "CRE",
+        "catOutL": "Regional-Express",
+        "operatorCode": "CFL",
+        "operator": "Chemins de Fer Luxembourgeois",
+        "admin": "c82---",
+        "matchId": "11"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 228,
+              "g": 0,
+              "b": 43,
+              "hex": "#E4002B"
+            },
+            "res": "prod_reg"
+          },
+          "name": "RE 11",
+          "internalName": "RE 11",
+          "displayNumber": "11",
+          "num": "3243",
+          "line": "11",
+          "lineId": "RE11",
+          "catOut": "Train",
+          "catIn": "CRE",
+          "catCode": "3",
+          "cls": "4",
+          "catOutS": "CRE",
+          "catOutL": "Regional-Express",
+          "operatorCode": "CFL",
+          "operator": "Chemins de Fer Luxembourgeois",
+          "admin": "c82---",
+          "matchId": "11"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Chemins de Fer Luxembourgeois",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "CFL"
+          }
+        ]
+      },
+      "name": "RE 11",
+      "type": "ST",
+      "stop": "Luxembourg, Gare Centrale",
+      "stopid": "A=1@O=Luxembourg, Gare Centrale@X=6125976@Y=49611504@U=82@L=200405060@",
+      "stopExtId": "200405060",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "19:05:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": true,
+      "direction": "Troisvierges, Gare",
+      "directionFlag": "1",
+      "track": "3"
+    }
+  ],
+  "Message": [
+    {
+      "id": "HIM_FREETEXT_120001",
+      "act": true,
+      "head": "Ascenseur hors service",
+      "text": "L’ascenseur du quai 3 est hors service.",
+      "sTime": "06:00:00",
+      "sDate": "2026-11-06",
+      "eTime": "20:00:00",
+      "eDate": "2026-11-10"
+    }
+  ]
+}

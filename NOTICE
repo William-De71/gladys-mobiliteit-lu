@@ -1,0 +1,24 @@
+Gladys Mobiliteit.lu integration
+Copyright 2026 William Deren
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The real-time departures come from the official API of the Administration des
+transports publics (ATP, Ministère de la Mobilité et des Travaux publics,
+Luxembourg), the API behind mobiliteit.lu, published on
+https://data.public.lu/fr/datasets/api-mobiliteit-lu/ under the Creative
+Commons Attribution 4.0 licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/. Each user needs a personal key
+of the ATP. The names and numbers of the stops come from the open GTFS of the
+ATP, https://data.public.lu/fr/datasets/horaires-et-arrets-des-transport-publics-gtfs/,
+under the same licence. Source: Administration des transports publics /
+mobiliteit.lu. The widgets show the source and the time of each reading.
+
+The file test/fixtures/gtfs-stops.txt is an extract of that GTFS (CC BY 4.0).
+The other files under test/fixtures were built from the published schema of
+the API (rest-2.52.xsd), not recorded from it.
+
+This community integration is not affiliated with, endorsed or sponsored by
+the Administration des transports publics, the Verkéiersverbond,
+mobiliteit.lu, HaCon or any operator of the networks of Luxembourg (CFL,
+Luxtram, AVL, RGTR, TICE).

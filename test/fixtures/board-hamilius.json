@@ -1,0 +1,1073 @@
+{
+  "serverVersion": "2.52.2",
+  "dialectVersion": "2.52",
+  "planRtTs": "2026-11-07T18:29:41+01:00",
+  "requestId": "gladys-test",
+  "Departure": [
+    {
+      "JourneyDetailRef": {
+        "ref": "1|80161|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 117,
+            "g": 40,
+            "b": 100,
+            "hex": "#752864"
+          },
+          "res": "prod_bus_t"
+        },
+        "name": "Bus 16",
+        "internalName": "Bus 16",
+        "displayNumber": "16",
+        "num": "8016",
+        "line": "16",
+        "lineId": "16",
+        "catOut": "Bus",
+        "catIn": "064",
+        "catCode": "5",
+        "cls": "32",
+        "catOutS": "064",
+        "catOutL": "Bus",
+        "operatorCode": "AVL",
+        "operator": "Ville de Luxembourg - Service Autobus",
+        "admin": "AVL---",
+        "matchId": "16"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 117,
+              "g": 40,
+              "b": 100,
+              "hex": "#752864"
+            },
+            "res": "prod_bus_t"
+          },
+          "name": "Bus 16",
+          "internalName": "Bus 16",
+          "displayNumber": "16",
+          "num": "8016",
+          "line": "16",
+          "lineId": "16",
+          "catOut": "Bus",
+          "catIn": "064",
+          "catCode": "5",
+          "cls": "32",
+          "catOutS": "064",
+          "catOutL": "Bus",
+          "operatorCode": "AVL",
+          "operator": "Ville de Luxembourg - Service Autobus",
+          "admin": "AVL---",
+          "matchId": "16"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Ville de Luxembourg - Service Autobus",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "AVL"
+          }
+        ]
+      },
+      "name": "Bus 16",
+      "type": "ST",
+      "stop": "Hamilius (Bus)",
+      "stopid": "A=1@O=Hamilius (Bus)@X=6125976@Y=49611504@U=82@L=200405020@",
+      "stopExtId": "200405020",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "18:31:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": true,
+      "direction": "Kirchberg, Gare routière",
+      "directionFlag": "1",
+      "prognosisType": "PROGNOSED",
+      "rtTime": "18:33:00",
+      "rtDate": "2026-11-07",
+      "rtTz": 60,
+      "Messages": {
+        "Message": [
+          {
+            "id": "HIM_FREETEXT_118734",
+            "act": true,
+            "head": "Travaux avenue de la Liberté",
+            "lead": "Déviation des lignes 16 et 18.",
+            "text": "En raison de travaux avenue de la Liberté, les lignes 16 et 18 sont déviées par le boulevard de la Pétrusse jusqu’au 20 novembre.",
+            "priority": 50,
+            "category": "1",
+            "products": 32,
+            "sTime": "05:00:00",
+            "sDate": "2026-11-03",
+            "eTime": "23:59:00",
+            "eDate": "2026-11-20"
+          }
+        ]
+      }
+    },
+    {
+      "JourneyDetailRef": {
+        "ref": "1|80181|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 117,
+            "g": 40,
+            "b": 100,
+            "hex": "#752864"
+          },
+          "res": "prod_bus_t"
+        },
+        "name": "Bus 18",
+        "internalName": "Bus 18",
+        "displayNumber": "18",
+        "num": "8018",
+        "line": "18",
+        "lineId": "18",
+        "catOut": "Bus",
+        "catIn": "064",
+        "catCode": "5",
+        "cls": "32",
+        "catOutS": "064",
+        "catOutL": "Bus",
+        "operatorCode": "AVL",
+        "operator": "Ville de Luxembourg - Service Autobus",
+        "admin": "AVL---",
+        "matchId": "18"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 117,
+              "g": 40,
+              "b": 100,
+              "hex": "#752864"
+            },
+            "res": "prod_bus_t"
+          },
+          "name": "Bus 18",
+          "internalName": "Bus 18",
+          "displayNumber": "18",
+          "num": "8018",
+          "line": "18",
+          "lineId": "18",
+          "catOut": "Bus",
+          "catIn": "064",
+          "catCode": "5",
+          "cls": "32",
+          "catOutS": "064",
+          "catOutL": "Bus",
+          "operatorCode": "AVL",
+          "operator": "Ville de Luxembourg - Service Autobus",
+          "admin": "AVL---",
+          "matchId": "18"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Ville de Luxembourg - Service Autobus",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "AVL"
+          }
+        ]
+      },
+      "name": "Bus 18",
+      "type": "ST",
+      "stop": "Hamilius (Bus)",
+      "stopid": "A=1@O=Hamilius (Bus)@X=6125976@Y=49611504@U=82@L=200405020@",
+      "stopExtId": "200405020",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "18:34:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": true,
+      "direction": "Kirchberg, Gare routière",
+      "directionFlag": "1",
+      "prognosisType": "PROGNOSED",
+      "rtTime": "18:34:00",
+      "rtDate": "2026-11-07",
+      "rtTz": 60,
+      "Messages": {
+        "Message": [
+          {
+            "id": "HIM_FREETEXT_118734",
+            "act": true,
+            "head": "Travaux avenue de la Liberté",
+            "lead": "Déviation des lignes 16 et 18.",
+            "text": "En raison de travaux avenue de la Liberté, les lignes 16 et 18 sont déviées par le boulevard de la Pétrusse jusqu’au 20 novembre.",
+            "priority": 50,
+            "category": "1",
+            "products": 32,
+            "sTime": "05:00:00",
+            "sDate": "2026-11-03",
+            "eTime": "23:59:00",
+            "eDate": "2026-11-20"
+          }
+        ]
+      }
+    },
+    {
+      "JourneyDetailRef": {
+        "ref": "1|80162|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 117,
+            "g": 40,
+            "b": 100,
+            "hex": "#752864"
+          },
+          "res": "prod_bus_t"
+        },
+        "name": "Bus 16",
+        "internalName": "Bus 16",
+        "displayNumber": "16",
+        "num": "8016",
+        "line": "16",
+        "lineId": "16",
+        "catOut": "Bus",
+        "catIn": "064",
+        "catCode": "5",
+        "cls": "32",
+        "catOutS": "064",
+        "catOutL": "Bus",
+        "operatorCode": "AVL",
+        "operator": "Ville de Luxembourg - Service Autobus",
+        "admin": "AVL---",
+        "matchId": "16"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 117,
+              "g": 40,
+              "b": 100,
+              "hex": "#752864"
+            },
+            "res": "prod_bus_t"
+          },
+          "name": "Bus 16",
+          "internalName": "Bus 16",
+          "displayNumber": "16",
+          "num": "8016",
+          "line": "16",
+          "lineId": "16",
+          "catOut": "Bus",
+          "catIn": "064",
+          "catCode": "5",
+          "cls": "32",
+          "catOutS": "064",
+          "catOutL": "Bus",
+          "operatorCode": "AVL",
+          "operator": "Ville de Luxembourg - Service Autobus",
+          "admin": "AVL---",
+          "matchId": "16"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Ville de Luxembourg - Service Autobus",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "AVL"
+          }
+        ]
+      },
+      "name": "Bus 16",
+      "type": "ST",
+      "stop": "Hamilius (Bus)",
+      "stopid": "A=1@O=Hamilius (Bus)@X=6125976@Y=49611504@U=82@L=200405020@",
+      "stopExtId": "200405020",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "18:36:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": true,
+      "direction": "Luxembourg, Gare Centrale",
+      "directionFlag": "1"
+    },
+    {
+      "JourneyDetailRef": {
+        "ref": "1|80301|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 117,
+            "g": 40,
+            "b": 100,
+            "hex": "#752864"
+          },
+          "res": "prod_bus_t"
+        },
+        "name": "Bus 30",
+        "internalName": "Bus 30",
+        "displayNumber": "30",
+        "num": "8030",
+        "line": "30",
+        "lineId": "30",
+        "catOut": "Bus",
+        "catIn": "064",
+        "catCode": "5",
+        "cls": "32",
+        "catOutS": "064",
+        "catOutL": "Bus",
+        "operatorCode": "AVL",
+        "operator": "Ville de Luxembourg - Service Autobus",
+        "admin": "AVL---",
+        "matchId": "30"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 117,
+              "g": 40,
+              "b": 100,
+              "hex": "#752864"
+            },
+            "res": "prod_bus_t"
+          },
+          "name": "Bus 30",
+          "internalName": "Bus 30",
+          "displayNumber": "30",
+          "num": "8030",
+          "line": "30",
+          "lineId": "30",
+          "catOut": "Bus",
+          "catIn": "064",
+          "catCode": "5",
+          "cls": "32",
+          "catOutS": "064",
+          "catOutL": "Bus",
+          "operatorCode": "AVL",
+          "operator": "Ville de Luxembourg - Service Autobus",
+          "admin": "AVL---",
+          "matchId": "30"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Ville de Luxembourg - Service Autobus",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "AVL"
+          }
+        ]
+      },
+      "name": "Bus 30",
+      "type": "ST",
+      "stop": "Hamilius (Bus)",
+      "stopid": "A=1@O=Hamilius (Bus)@X=6125976@Y=49611504@U=82@L=200405020@",
+      "stopExtId": "200405020",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "18:38:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": false,
+      "direction": "Strassen, Bourmicht",
+      "directionFlag": "1",
+      "cancelled": true
+    },
+    {
+      "JourneyDetailRef": {
+        "ref": "1|80163|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 117,
+            "g": 40,
+            "b": 100,
+            "hex": "#752864"
+          },
+          "res": "prod_bus_t"
+        },
+        "name": "Bus 16",
+        "internalName": "Bus 16",
+        "displayNumber": "16",
+        "num": "8016",
+        "line": "16",
+        "lineId": "16",
+        "catOut": "Bus",
+        "catIn": "064",
+        "catCode": "5",
+        "cls": "32",
+        "catOutS": "064",
+        "catOutL": "Bus",
+        "operatorCode": "AVL",
+        "operator": "Ville de Luxembourg - Service Autobus",
+        "admin": "AVL---",
+        "matchId": "16"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 117,
+              "g": 40,
+              "b": 100,
+              "hex": "#752864"
+            },
+            "res": "prod_bus_t"
+          },
+          "name": "Bus 16",
+          "internalName": "Bus 16",
+          "displayNumber": "16",
+          "num": "8016",
+          "line": "16",
+          "lineId": "16",
+          "catOut": "Bus",
+          "catIn": "064",
+          "catCode": "5",
+          "cls": "32",
+          "catOutS": "064",
+          "catOutL": "Bus",
+          "operatorCode": "AVL",
+          "operator": "Ville de Luxembourg - Service Autobus",
+          "admin": "AVL---",
+          "matchId": "16"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Ville de Luxembourg - Service Autobus",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "AVL"
+          }
+        ]
+      },
+      "name": "Bus 16",
+      "type": "ST",
+      "stop": "Hamilius (Bus)",
+      "stopid": "A=1@O=Hamilius (Bus)@X=6125976@Y=49611504@U=82@L=200405020@",
+      "stopExtId": "200405020",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "18:41:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": true,
+      "direction": "Kirchberg, Gare routière",
+      "directionFlag": "1",
+      "prognosisType": "PROGNOSED",
+      "rtTime": "18:48:00",
+      "rtDate": "2026-11-07",
+      "rtTz": 60,
+      "Messages": {
+        "Message": [
+          {
+            "id": "HIM_FREETEXT_118734",
+            "act": true,
+            "head": "Travaux avenue de la Liberté",
+            "lead": "Déviation des lignes 16 et 18.",
+            "text": "En raison de travaux avenue de la Liberté, les lignes 16 et 18 sont déviées par le boulevard de la Pétrusse jusqu’au 20 novembre.",
+            "priority": 50,
+            "category": "1",
+            "products": 32,
+            "sTime": "05:00:00",
+            "sDate": "2026-11-03",
+            "eTime": "23:59:00",
+            "eDate": "2026-11-20"
+          }
+        ]
+      }
+    },
+    {
+      "JourneyDetailRef": {
+        "ref": "1|33021|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 117,
+            "g": 40,
+            "b": 100,
+            "hex": "#752864"
+          },
+          "res": "prod_bus_t"
+        },
+        "name": "Bus 302",
+        "internalName": "Bus 302",
+        "displayNumber": "302",
+        "num": "3302",
+        "line": "302",
+        "lineId": "302",
+        "catOut": "Bus",
+        "catIn": "064",
+        "catCode": "5",
+        "cls": "32",
+        "catOutS": "064",
+        "catOutL": "Bus",
+        "operatorCode": "RGT",
+        "operator": "Régime Général des Transports Routiers",
+        "admin": "RGTR--",
+        "matchId": "302"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 117,
+              "g": 40,
+              "b": 100,
+              "hex": "#752864"
+            },
+            "res": "prod_bus_t"
+          },
+          "name": "Bus 302",
+          "internalName": "Bus 302",
+          "displayNumber": "302",
+          "num": "3302",
+          "line": "302",
+          "lineId": "302",
+          "catOut": "Bus",
+          "catIn": "064",
+          "catCode": "5",
+          "cls": "32",
+          "catOutS": "064",
+          "catOutL": "Bus",
+          "operatorCode": "RGT",
+          "operator": "Régime Général des Transports Routiers",
+          "admin": "RGTR--",
+          "matchId": "302"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Régime Général des Transports Routiers",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "RGT"
+          }
+        ]
+      },
+      "name": "Bus 302",
+      "type": "ST",
+      "stop": "Hamilius (Bus)",
+      "stopid": "A=1@O=Hamilius (Bus)@X=6125976@Y=49611504@U=82@L=200405020@",
+      "stopExtId": "200405020",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "18:44:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": true,
+      "direction": "Kirchberg, Gare routière",
+      "directionFlag": "1",
+      "prognosisType": "PROGNOSED",
+      "rtTime": "18:44:00",
+      "rtDate": "2026-11-07",
+      "rtTz": 60
+    },
+    {
+      "JourneyDetailRef": {
+        "ref": "1|80164|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 117,
+            "g": 40,
+            "b": 100,
+            "hex": "#752864"
+          },
+          "res": "prod_bus_t"
+        },
+        "name": "Bus 16",
+        "internalName": "Bus 16",
+        "displayNumber": "16",
+        "num": "8016",
+        "line": "16",
+        "lineId": "16",
+        "catOut": "Bus",
+        "catIn": "064",
+        "catCode": "5",
+        "cls": "32",
+        "catOutS": "064",
+        "catOutL": "Bus",
+        "operatorCode": "AVL",
+        "operator": "Ville de Luxembourg - Service Autobus",
+        "admin": "AVL---",
+        "matchId": "16"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 117,
+              "g": 40,
+              "b": 100,
+              "hex": "#752864"
+            },
+            "res": "prod_bus_t"
+          },
+          "name": "Bus 16",
+          "internalName": "Bus 16",
+          "displayNumber": "16",
+          "num": "8016",
+          "line": "16",
+          "lineId": "16",
+          "catOut": "Bus",
+          "catIn": "064",
+          "catCode": "5",
+          "cls": "32",
+          "catOutS": "064",
+          "catOutL": "Bus",
+          "operatorCode": "AVL",
+          "operator": "Ville de Luxembourg - Service Autobus",
+          "admin": "AVL---",
+          "matchId": "16"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Ville de Luxembourg - Service Autobus",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "AVL"
+          }
+        ]
+      },
+      "name": "Bus 16",
+      "type": "ST",
+      "stop": "Hamilius (Bus)",
+      "stopid": "A=1@O=Hamilius (Bus)@X=6125976@Y=49611504@U=82@L=200405020@",
+      "stopExtId": "200405020",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "18:51:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": true,
+      "direction": "Kirchberg, Gare routière",
+      "directionFlag": "1"
+    },
+    {
+      "JourneyDetailRef": {
+        "ref": "1|80182|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 117,
+            "g": 40,
+            "b": 100,
+            "hex": "#752864"
+          },
+          "res": "prod_bus_t"
+        },
+        "name": "Bus 18",
+        "internalName": "Bus 18",
+        "displayNumber": "18",
+        "num": "8018",
+        "line": "18",
+        "lineId": "18",
+        "catOut": "Bus",
+        "catIn": "064",
+        "catCode": "5",
+        "cls": "32",
+        "catOutS": "064",
+        "catOutL": "Bus",
+        "operatorCode": "AVL",
+        "operator": "Ville de Luxembourg - Service Autobus",
+        "admin": "AVL---",
+        "matchId": "18"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 117,
+              "g": 40,
+              "b": 100,
+              "hex": "#752864"
+            },
+            "res": "prod_bus_t"
+          },
+          "name": "Bus 18",
+          "internalName": "Bus 18",
+          "displayNumber": "18",
+          "num": "8018",
+          "line": "18",
+          "lineId": "18",
+          "catOut": "Bus",
+          "catIn": "064",
+          "catCode": "5",
+          "cls": "32",
+          "catOutS": "064",
+          "catOutL": "Bus",
+          "operatorCode": "AVL",
+          "operator": "Ville de Luxembourg - Service Autobus",
+          "admin": "AVL---",
+          "matchId": "18"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Ville de Luxembourg - Service Autobus",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "AVL"
+          }
+        ]
+      },
+      "name": "Bus 18",
+      "type": "ST",
+      "stop": "Hamilius (Bus)",
+      "stopid": "A=1@O=Hamilius (Bus)@X=6125976@Y=49611504@U=82@L=200405020@",
+      "stopExtId": "200405020",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "18:53:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": true,
+      "direction": "Luxembourg, Gare Centrale",
+      "directionFlag": "1",
+      "prognosisType": "PROGNOSED",
+      "rtTime": "18:52:00",
+      "rtDate": "2026-11-07",
+      "rtTz": 60
+    },
+    {
+      "JourneyDetailRef": {
+        "ref": "1|80165|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 117,
+            "g": 40,
+            "b": 100,
+            "hex": "#752864"
+          },
+          "res": "prod_bus_t"
+        },
+        "name": "Bus 16",
+        "internalName": "Bus 16",
+        "displayNumber": "16",
+        "num": "8016",
+        "line": "16",
+        "lineId": "16",
+        "catOut": "Bus",
+        "catIn": "064",
+        "catCode": "5",
+        "cls": "32",
+        "catOutS": "064",
+        "catOutL": "Bus",
+        "operatorCode": "AVL",
+        "operator": "Ville de Luxembourg - Service Autobus",
+        "admin": "AVL---",
+        "matchId": "16"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 117,
+              "g": 40,
+              "b": 100,
+              "hex": "#752864"
+            },
+            "res": "prod_bus_t"
+          },
+          "name": "Bus 16",
+          "internalName": "Bus 16",
+          "displayNumber": "16",
+          "num": "8016",
+          "line": "16",
+          "lineId": "16",
+          "catOut": "Bus",
+          "catIn": "064",
+          "catCode": "5",
+          "cls": "32",
+          "catOutS": "064",
+          "catOutL": "Bus",
+          "operatorCode": "AVL",
+          "operator": "Ville de Luxembourg - Service Autobus",
+          "admin": "AVL---",
+          "matchId": "16"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Ville de Luxembourg - Service Autobus",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "AVL"
+          }
+        ]
+      },
+      "name": "Bus 16",
+      "type": "ST",
+      "stop": "Hamilius (Bus)",
+      "stopid": "A=1@O=Hamilius (Bus)@X=6125976@Y=49611504@U=82@L=200405020@",
+      "stopExtId": "200405020",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "19:01:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": true,
+      "direction": "Kirchberg, Gare routière",
+      "directionFlag": "1"
+    },
+    {
+      "JourneyDetailRef": {
+        "ref": "1|80166|0|82|7112026"
+      },
+      "JourneyStatus": "P",
+      "ProductAtStop": {
+        "icon": {
+          "foregroundColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "hex": "#FFFFFF"
+          },
+          "backgroundColor": {
+            "r": 117,
+            "g": 40,
+            "b": 100,
+            "hex": "#752864"
+          },
+          "res": "prod_bus_t"
+        },
+        "name": "Bus 16",
+        "internalName": "Bus 16",
+        "displayNumber": "16",
+        "num": "8016",
+        "line": "16",
+        "lineId": "16",
+        "catOut": "Bus",
+        "catIn": "064",
+        "catCode": "5",
+        "cls": "32",
+        "catOutS": "064",
+        "catOutL": "Bus",
+        "operatorCode": "AVL",
+        "operator": "Ville de Luxembourg - Service Autobus",
+        "admin": "AVL---",
+        "matchId": "16"
+      },
+      "Product": [
+        {
+          "icon": {
+            "foregroundColor": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "hex": "#FFFFFF"
+            },
+            "backgroundColor": {
+              "r": 117,
+              "g": 40,
+              "b": 100,
+              "hex": "#752864"
+            },
+            "res": "prod_bus_t"
+          },
+          "name": "Bus 16",
+          "internalName": "Bus 16",
+          "displayNumber": "16",
+          "num": "8016",
+          "line": "16",
+          "lineId": "16",
+          "catOut": "Bus",
+          "catIn": "064",
+          "catCode": "5",
+          "cls": "32",
+          "catOutS": "064",
+          "catOutL": "Bus",
+          "operatorCode": "AVL",
+          "operator": "Ville de Luxembourg - Service Autobus",
+          "admin": "AVL---",
+          "matchId": "16"
+        }
+      ],
+      "Notes": {
+        "Note": [
+          {
+            "value": "Ville de Luxembourg - Service Autobus",
+            "key": "OPERATOR",
+            "type": "A",
+            "routeIdxFrom": 0,
+            "routeIdxTo": 20,
+            "txtN": "AVL"
+          }
+        ]
+      },
+      "name": "Bus 16",
+      "type": "ST",
+      "stop": "Hamilius (Bus)",
+      "stopid": "A=1@O=Hamilius (Bus)@X=6125976@Y=49611504@U=82@L=200405020@",
+      "stopExtId": "200405020",
+      "lon": 6.125976,
+      "lat": 49.611504,
+      "time": "19:06:00",
+      "date": "2026-11-07",
+      "tz": 60,
+      "reachable": true,
+      "direction": "Luxembourg, Gare Centrale",
+      "directionFlag": "1"
+    }
+  ]
+}
